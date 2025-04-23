@@ -1,8 +1,8 @@
 ## Process Automation: Daily News Briefing
 ### Purpose<br>
 Sending industry-related news to all employees every morning  <br>
-### Used Library
+### Used Tool or Library
+  - NAVER Open API
   - requests
-  - BeautifulSoup
   - matplotlib
   - Pillow
